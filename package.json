@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "migrate": "mysql -u root -p db/employee_tracker.db < db/schema.sql",
-    "db": "mysql -u root -p employee_tracker.db"
+    "migrate": "mysql -u root -p employee_tracker < db/schema.sql",
+    "db": "mysql -u root -p employee_tracker",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
