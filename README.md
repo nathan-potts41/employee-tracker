@@ -29,3 +29,5 @@
   GitHub: http://www.github.com/nathan-potts41 
   nathan-potts41  
   
+  ## Future
+  App is still in development. Some features are not currently available.
