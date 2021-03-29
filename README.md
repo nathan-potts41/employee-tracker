@@ -4,15 +4,12 @@
   Employee Tracker is an app designed for back-end use. The goal of Employee Tracker is to create an easy way for you to track your employees name, role, and department of operation. 
 
   ## Deployed
-  Website
+  Clone repo onto your machine for access.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
   - [About](#about)
 
   ## Installation
