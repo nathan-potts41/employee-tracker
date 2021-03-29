@@ -1,5 +1,4 @@
-# employee-tracker
-# Employee Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Employee Tracker 
   
   ## Description
   Employee Tracker is an app designed for back-end use. The goal of Employee Tracker is to create an easy way for you to track your employees name, role, and department of operation. 
@@ -22,22 +21,11 @@
   ## Usage
   Employee Tracker is an app designed for back-end use. The goal of Employee Tracker is to create an easy way for you to track your employees name, role, and department of operation. 
 
-  ## License
-  MIT
-
   ## Contributing
   Jake Nystrom
 
-  ## Tests
-    
-
-  ## Questions
-  If you have any questions, feel free to reach out to me at my email!   
+  ## Contact
   Email: nathan.potts41@gmail.com  
-  GitHub: http://www.github.com/nathan-potts41
-
-  ## About 
-
-  undefined  
+  GitHub: http://www.github.com/nathan-potts41 
   nathan-potts41  
-  nathan.potts41@gmail.com  
+  
