@@ -7,13 +7,11 @@
 
   ## Deployed
 
-
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
   - [About](#about)
 
@@ -23,14 +21,9 @@
   ## Usage
   Employee Tracker is an app designed for back-end use. The goal of Employee Tracker is to create an easy way for you to track your employees name, role, and department of operation. 
 
-  ## License
-  MIT
-
   ## Contributing
   Jake Nystrom
 
-  ## Tests
-    
 
   ## Questions
   If you have any questions, feel free to reach out to me at my email!   
